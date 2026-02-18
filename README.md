@@ -72,4 +72,3 @@ output is in c:users/desktop/output.jar
 should be a 12mb file with no way to check what the file does 💙
 not even debuggers
 
-add me on dsc: farws
